@@ -1,0 +1,11 @@
+
+subjectas
+will try commit entering commit message in text editor
+
+additional info
+
+will be very nice
+another topic
+
+and there will be more
+this info added while working on branch test1, that will be deleted later
