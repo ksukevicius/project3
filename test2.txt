@@ -2,3 +2,4 @@ some information
 feature1
 
 update1 another file in master
+update2 in master
