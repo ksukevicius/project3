@@ -4,3 +4,4 @@ cia padarysim commita, kai esu padares soft reseta
 
 feature1 update1
 feature1 update2
+feature1 new update after merge into master
